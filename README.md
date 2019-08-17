@@ -20,4 +20,66 @@ I also added various queries that pull up useful data, such as:
 * List of visits by calendar date.
 * List of all currently active customers.
 
-The code is fully functional; however, due to the Azure database no longer having an active subscription, the data is inaccessible. 
+## Home Page
+
+![Home page](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/Home%20page.png)
+
+## Add New Customer
+
+![New Customer](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/New%20customer.png)
+
+## Customer Lookup
+
+![Customer Lookup](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/Customer%20lookup.png)
+
+## Landing Page
+
+![Landing Page](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/Landing%20page.png)
+
+## Customer Notes
+
+![Notes](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/Customer%20notes.png)
+
+## View Animals
+
+![View Animals](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/View%20animals.png)
+
+## Add New Animal
+
+![New Animal](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/New%20animal.png)
+
+## View Customer Invoices
+
+![View Customer Invoices](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/Invoice%20manager%202.png)
+
+## Add New Invoice
+
+![New Invoice](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/New%20invoice.png)
+
+## View/Edit Invoice
+
+![View Invoice](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/Edit%20invoice.png)
+
+## Queries
+
+![Queries](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/Queries.png)
+
+## Species List
+
+![Species List](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/Species%20list.png)
+
+## Unpaid Invoices
+
+![Unpaid Invoices](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/Unpaid%20invoices.png)
+
+## Unsteralized Animals
+
+![Unsteralized Animals](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/Unsteralized%20animals.png)
+
+## Visits Per Day
+
+![Visits Per Day](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/Visits%20per%20day.png)
+
+## Email List
+
+![Email List](https://github.com/WendlerTech/Vet-To-Go/blob/master/images/Email%20list.png)
